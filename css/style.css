@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+
+body {
+  padding:50px;
+  font:35px/0.8 Lato;
+  color:#657;
+  font-weight:300;
+  text-align: justify;
+  font-size: 16px;
+}
+
+header {
+  width:550px;
+  float:left;
+  position:fixed;
+}
+
+.wrapper {
+  width:860px;
+  margin:0 auto;
+  font:35px;
+  line-height: 20px;
+}
